@@ -1,0 +1,13 @@
+p {
+  font-size: 16px;
+}
+
+a {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
+
+.highlight {
+  background-color: yellow;
+}/*# sourceMappingURL=home.css.map */
